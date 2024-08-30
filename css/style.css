@@ -257,6 +257,7 @@ span {
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
     gap: 2.5rem;
+    
 }
 
 .portfolio-container .portfolio-box {
@@ -291,6 +292,7 @@ span {
     padding: 0 4rem;
     transform: translateY(100%);
     transition: .5s ease;
+    
 }
 
 .portfolio-box:hover .portfolio-layer {
