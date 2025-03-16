@@ -300,19 +300,20 @@ span {
 }
 
 .portfolio-layer h4 {
-    font-size: 3rem;
+    font-size: 2.5vmin; /* Adjusts based on viewport size, remains constant on zoom */
     line-height: 2.0;
 }
 
 .portfolio-layer h5 {
-    font-size: 2rem;
+    font-size: 2vmin; /* Smaller than h4 to maintain hierarchy */
     line-height: 3.0;
 }
 
-.portfolio-layer p {
-    font-size: 1.6rem;
+.portfolio-layer p, .portfolio-layer li {
+    font-size: 1.5vmin; /* Suitable for smaller text elements */
     margin: .3rem 0 1rem;
 }
+
 
 .portfolio-layer a {
     display: inline-flex;
