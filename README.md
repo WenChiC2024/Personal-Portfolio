@@ -6,6 +6,9 @@ Whether you're a potential employer, a fellow developer, or just curious, feel f
 ## Website Link
 
 You can view the live site here: [Responsive Personal Portfolio By Wen Chi Cheng](https://wenchic2024.github.io/Personal-Portfolio/)
+- Tip: Lower your browser's zoom level when viewing projects for the best viewing experience.
+- Tip #2: Most of the project has hyperlinks under the introduction. Give these a shot!
+- ![image](https://github.com/user-attachments/assets/6f1429b7-d452-41bb-ae1c-72e351b884f0)
 
 ## Features
 
